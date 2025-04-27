@@ -1,0 +1,6 @@
+zoom.exe
+chrome.exe
+discord.exe
+skype.exe
+msedge.exe
+firefox.exe

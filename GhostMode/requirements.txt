@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+pywin32==306
+psutil==5.9.5
+pyinstaller==5.13.0
+python-dotenv==1.0.0

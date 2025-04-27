@@ -1,0 +1,5 @@
+# Synopsis
+
+Ghost Mode is a cross-platform desktop application designed to offer users a rapid, one-click privacy lockdown. In today’s connected world, webcams, microphones, location services, and background applications can expose sensitive data or leak information without the user’s consent. Ghost Mode mitigates these risks by disabling hardware devices (webcam and microphone), terminating specified processes, spoofing or toggling location services on Windows, and randomizing network MAC addresses on Linux.
+
+Built in Python with PyQt5, Ghost Mode features an intuitive graphical interface, a system tray icon, and a global hotkey for emergency activation. Each action is recorded in a durable audit log to provide transparency and support compliance or forensic review. Modular services handle hardware control, process management, location toggling, and logging, ensuring clear separation of concerns and easy extensibility. Ghost Mode empowers users to control their digital footprint at a moment’s notice, offering peace of mind in both personal and professional environments.
